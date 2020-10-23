@@ -1,2 +1,2 @@
 # Myntra-home-page-clone
-DESKTOP VERSION ONLY
+Myntra Clone using HTML and CSS.
